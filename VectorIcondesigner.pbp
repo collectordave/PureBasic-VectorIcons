@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.51 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Vector Icon designer"/>
+  </section>
+  <section name="data">
+    <explorer view="..\..\Program Files (x86)\PureBasic\Examples\" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2017-01-07 06:16" user="DaveSandy" host="MEDIAPC"/>
+  </section>
+  <section name="files">
+    <file name="AppModule.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="59383c175556b8827976071851cd4632"/>
+    </file>
+    <file name="dlgChooseElement.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="3d760a7a092346cb65a0705b7e2769c2"/>
+    </file>
+    <file name="dlgEditPath.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="628ef7b4cee6bd3f45909eced3669e42"/>
+    </file>
+    <file name="dlgHelpViewer.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="1731756844e27e5174b1f80936188e12"/>
+    </file>
+    <file name="dlgIconViewer.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="6ddb598a15d7f4ad24f1c7d86cee13bc"/>
+    </file>
+    <file name="dlgLoadIcon.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="ba4a8248631ef8dfd58a5626a090b0e8"/>
+    </file>
+    <file name="dlgNewGroup.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="0bb1688cab4b9627a4154bfba3fb4068"/>
+    </file>
+    <file name="dlgNewIcon.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="f4a2d15ca086a73e6fabd93fa377a804"/>
+    </file>
+    <file name="DrawArc.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="1c784233878b9bfd6f68cd2c2e3fe8f4"/>
+    </file>
+    <file name="DrawBox.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="c04d7a923243738911984ec66bfa3da1"/>
+    </file>
+    <file name="DrawCircle.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="b6dd792813a22b3b64a5440f520b43dc"/>
+    </file>
+    <file name="DrawCurve.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="553e64a5d8e4fa2a8ff5f5f188b532c3"/>
+    </file>
+    <file name="DrawEllipse.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="407177a86957ba67eb8505b0bdbb07b5"/>
+    </file>
+    <file name="DrawLine.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="dbe7f415c65668836dfd9af228f01370"/>
+    </file>
+    <file name="DrawPath.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="dc9512e257fc837ceff5869b97269bf3"/>
+    </file>
+    <file name="DrawPoly.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="8e9f998bf73e715fff8e556d13f2d2d2"/>
+    </file>
+    <file name="DrawShape.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="8abe26f1da2bbb713ee7d47333fe76a6"/>
+    </file>
+    <file name="DrawStar.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="4d232667ed0c03f3c2156d678c96fa7e"/>
+    </file>
+    <file name="DrawText.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="73fbaf54878ece4be08a3494c46479f1"/>
+    </file>
+    <file name="winMain.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="3533aacd1800131f5694786836883e1f"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Default Target" enabled="1" default="1">
+      <inputfile value="winMain.pb"/>
+      <outputfile value="Icon Designer"/>
+      <executable value="Icon Designer.exe"/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
